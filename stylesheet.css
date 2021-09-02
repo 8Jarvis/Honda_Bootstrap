@@ -1,0 +1,80 @@
+.fot{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+.bgi{
+    padding-top: 5%;
+    padding-left: 3.5%;
+    padding-right: 3.5%;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7),rgba(255, 255, 255, 0.7))  , url(plant.jpg);
+    height: auto;
+    width: auto;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat; 
+}
+
+.hondaimg{
+    height: 50%;
+    width: 50%;
+}
+
+.text{
+    padding: 8%;
+}
+
+.foot{
+    padding-top: 3%;
+    text-align: center;
+}
+
+.conback{
+    padding: 5%;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7),rgba(255, 255, 255, 0.7))  , url(plant.jpg);
+    height: auto;
+    width: auto;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.contact{
+    align-items: center;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.mains{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.6),rgba(255, 255, 255, 0.6))  , url(xblade.jpg);
+    height: auto;
+    width: auto;
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+
+.set{
+    padding: 1%;
+
+}
+
+.cat{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7),rgba(255, 255, 255, 0.7))  , url(hq.jfif);
+    height: auto;
+    width: auto;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.media{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.6),rgba(255, 255, 255, 0.6))  , url(media1.jpeg);
+    height: auto;
+    width: auto;
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
